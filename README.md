@@ -3,7 +3,7 @@ Personal data analysis projects
 
 My Binder Badge: https://mybinder.org/v2/gh/tronghung1104/data-analysis-portfolio/main?
 
-JupyterLab via Binder: https://notebooks.gesis.org/binder/jupyter/user/tronghung1104-d-lysis-portfolio-7q39wqof/lab
+Jupyter via Binder: https://notebooks.gesis.org/binder/jupyter/user/tronghung1104-d-lysis-portfolio-7q39wqof/lab
 
 Google Sheets - Keyword Dashboard [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/tronghung1104-d-lysis-portfolio-7q39wqof/notebooks/Google%20Sheet%20-%20Keyword%20Report/keyword_dashboard.ipynb)
 
