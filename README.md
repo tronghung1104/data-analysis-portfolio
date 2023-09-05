@@ -5,7 +5,7 @@ My Binder Badge: https://mybinder.org/v2/gh/tronghung1104/data-analysis-portfoli
 
 Jupyter via Binder: https://notebooks.gesis.org/binder/jupyter/user/tronghung1104-d-lysis-portfolio-7q39wqof/lab
 
-Google Sheets - Keyword Dashboard [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/tronghung1104-d-lysis-portfolio-7q39wqof/notebooks/Google%20Sheet%20-%20Keyword%20Report/keyword_dashboard.ipynb)
+Google Sheets - Keyword Dashboard [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tronghung1104/data-analysis-portfolio/main?labpath=Google%20Sheet%20-%20Keyword%20Report%2Fkeyword_dashboard.ipynb)
 
 Power BI - Capstone Project - Vending Machine Sales Analysis [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/tronghung1104-d-lysis-portfolio-7q39wqof/notebooks/Power%20BI%20-%20Capstone%20Project%20-%20Vending%20Machine%20Sales/vending_machine_sales_analysis.ipynb)
 
