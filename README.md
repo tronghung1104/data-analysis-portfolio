@@ -7,7 +7,7 @@ Google Sheets - Keyword Dashboard [![Binder](https://mybinder.org/badge_logo.svg
 
 Power BI - Capstone Project - Vending Machine Sales Analysis [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tronghung1104/data-analysis-portfolio/main?labpath=Power%20BI%20-%20Capstone%20Project%20-%20Vending%20Machine%20Sales%2Fvending_machine_sales_analysis.ipynb)
 
-Python - Exploring Hacker News Posts  [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/tronghung1104-d-lysis-portfolio-7q39wqof/notebooks/Python%20-%20Exploring%20Hacker%20News%20Posts/exploring_hacker_news_posts.ipynb)
+Python - Exploring Hacker News Posts [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tronghung1104/data-analysis-portfolio/main?labpath=Python%20-%20Exploring%20Hacker%20News%20Posts%2Fexploring_hacker_news_posts.ipynb)
 
 Python - Exploring Helicopter Prison Break [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/tronghung1104-d-lysis-portfolio-7q39wqof/notebooks/Python%20-%20Exploring%20Helicopter%20Prison%20Break/exploring_helicopter_prison_break.ipynb)
 
